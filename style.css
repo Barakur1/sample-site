@@ -1,0 +1,18 @@
+#con{
+    height: 100vh;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#col2, #col1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#para{
+    text-align: justify;
+}
